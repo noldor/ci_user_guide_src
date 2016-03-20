@@ -32,8 +32,8 @@ CodeIgniter にはいくつかのセッションストレージドライバが�
 
 セッションは通常、各ページをまたいでグローバルに実行されます。
 そのため、セッションクラスは次のどちらかによって初期化されるべきです、
-:doc:`コントローラ<../general/controllers>`のコンストラクタ、
-またはシステムによる:doc:`オートロード<../general/autoloader>`によってです。
+:doc:`コントローラ<../general/controllers>` のコンストラクタ、
+またはシステムによる :doc:`オートロード<../general/autoloader>` によってです。
 たいていの場合、セッションクラスはバックグラウンドで黙って実行されます。
 そして明示的なクラスの初期化は読み込み、作成、更新が必要な時にだけ
 行えばよいです。
@@ -47,7 +47,7 @@ CodeIgniter にはいくつかのセッションストレージドライバが�
 
 	$this->session
 
-.. important:: 変数 ``$this->load`` の:doc:`ローダクラス</libraries/loader>`は CodeIgniter の基本となる
+.. important:: 変数 ``$this->load`` の :doc:`ローダクラス</libraries/loader>` は CodeIgniter の基本となる
 	コントローラによってインスタンス化されるため、コントローラのコンストラクタでの
 	``parent::__construct()`` の呼び出しはライブラリをロードしようとする前に
 	行ってください。
