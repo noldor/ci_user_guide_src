@@ -47,7 +47,7 @@ CodeIgniter にはいくつかのセッションストレージドライバが�
 
 	$this->session
 
-.. important:: :doc:`ローダークラス</libraries/loader>`は CodeIgniter の基本となる
+.. important:: 変数 ``$this->load`` の:doc:`ローダクラス</libraries/loader>`は CodeIgniter の基本となる
 	コントローラによってインスタンス化されるため、コントローラのコンストラクタでの
 	``parent::__construct()`` の呼び出しはライブラリをロードしようとする前に
 	行ってください。
