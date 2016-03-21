@@ -112,7 +112,7 @@ CodeIgniter の以前のバージョンのセッションはロックを実装�
 単なる配列です。
 
 もし以前から PHP でセッションを利用しているなら、
-PHP の `$_SESSION スーパーグローバル変数<http://php.net/manual/ja/reserved.variables.session.php>`_ に精通している
+PHP の `$_SESSION スーパーグローバル変数 <http://php.net/manual/ja/reserved.variables.session.php>`_ に精通している
 ことでしょう (そうでない場合は、そのリンクのコンテンツをお読みください) 。
 
 CodeIgniter はセッションデータへのアクセス方法をそれと同じ手段で提供します。
