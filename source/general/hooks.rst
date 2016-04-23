@@ -118,7 +118,7 @@ PHP 5.3以上で実行している場合は、ラムダ/無名関数
    そして確定データは
    ``$this->CI->output->get_output()`` を呼び出すことによって利用できるようになることを覚えておいてください。
 -  **cache_override**
-   :doc:`出力ライブラリ <../libraries/output>`の ``_display_cache()``
+   :doc:`出力ライブラリ <../libraries/output>` の ``_display_cache()``
    メソッドのかわりに独自のメソッドを呼び出すことができます。これにより、
    独自のキャッシュ表示機構を使用できるようになります。
 -  **post_system**
