@@ -29,7 +29,7 @@ register_globals
 ================
 
 システムの初期化時、
-``$_GET`` 、 ``$_POST`` 、 ``$_REQUEST`` と ``$ _COOKIE``内に見つけられる変数でグローバル変数のものはすべて unset されます。
+``$_GET`` 、 ``$_POST`` 、 ``$_REQUEST`` と ``$ _COOKIE`` 内に見つけられる変数でグローバル変数のものはすべて unset されます。
 
 この unset ルーチンは *register_globals = off* と同じ効果です。
 
