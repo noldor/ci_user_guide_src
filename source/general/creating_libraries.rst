@@ -42,7 +42,7 @@ application/libraries ディレクトリ内に独自のライブラリを作成�
 クラスファイル
 ==============
 
-クラスにはこの基本的なプロトタイプが必要です
+クラスにはこの基本的なプロトタイプが必要です::
 
 	<?php
 	defined('BASEPATH') OR exit('No direct script access allowed'); 
