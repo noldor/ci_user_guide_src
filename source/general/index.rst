@@ -1,5 +1,5 @@
 ################
-ˆê”Ê“I‚ÈƒgƒsƒbƒN
+ä¸€èˆ¬çš„ãªãƒˆãƒ”ãƒƒã‚¯
 ################
 
 .. toctree::
@@ -10,7 +10,7 @@
 	reserved_names
 	views
 	models
-	ƒwƒ‹ƒp[ <helpers>
+	ãƒ˜ãƒ«ãƒ‘ãƒ¼ <helpers>
 	libraries
 	creating_libraries
 	drivers
@@ -23,11 +23,11 @@
 	compatibility_functions
 	routing
 	errors
-	ƒLƒƒƒbƒVƒ… <caching>
+	ã‚­ãƒ£ãƒƒã‚·ãƒ¥ <caching>
 	profiling
 	cli
 	managing_apps
 	environments
 	alternative_php
 	security
-	PHP ƒXƒ^ƒCƒ‹ƒKƒCƒh <styleguide>
+	PHP ã‚¹ã‚¿ã‚¤ãƒ«ã‚¬ã‚¤ãƒ‰ <styleguide>
