@@ -111,7 +111,7 @@ CodeIgniter はその動作のために少しの関数を使用しており、
 		// ヘッダを設定します:  Unauthorized
 
 	ヘッダの完全なリストについては
-	`ここを参照してください<http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html>`_ 。
+	`ここを参照してください <http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html>`_ 。
 
 .. php:function:: remove_invisible_characters($str[, $url_encoded = TRUE])
 
