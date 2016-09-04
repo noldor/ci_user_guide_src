@@ -906,7 +906,7 @@ CodeIgniter においても実装しようとすべきではありません。
 		``$_SESSION`` のうち
 		「 flashdata 」としてマークされたすべての値の配列を取得します。
 
-	.. php:method:: umark_flash($key)
+	.. php:method:: unmark_flash($key)
 
 		:param	mixed	$key: 「 flashdata 」のマークを外すキー、または複数のキーの配列
 		:rtype:	void
@@ -971,7 +971,7 @@ CodeIgniter においても実装しようとすべきではありません。
 		``$_SESSION`` のうち
 		「 tempdata 」としてマークされたすべての値の配列を取得します。
 
-	.. php:method:: umark_temp($key)
+	.. php:method:: unmark_temp($key)
 
 		:param	mixed	$key: 「 tempdata 」のマークを外すキー、または複数のキーの配列
 		:rtype:	void

@@ -78,11 +78,10 @@ CodeIgniter はまた、コアのどこかが
 	CodeIgniterは自動的にあらゆる ``show_404()`` 呼び出しをログに記録します。
 	オプションの第 2 パラメータを FALSE に設定すると、ログをスキップします。
 
-.. php:function:: log_message($level, $message, $php_error = FALSE)
+.. php:function:: log_message($level, $message)
 
 	:param	string	$level: ログレベル: 「 error 」「 debug 」または「 info 」
 	:param	string	$message: ログのメッセージ
-	:param	bool	$php_error: ネイティブの PHP エラーメッセージをログに記録するかどうか
 	:rtype:	void
 
 	この関数によりログファイルにメッセージを書き込むことができます。
