@@ -577,7 +577,7 @@ set_rules() メソッドを使用します::
 	どちらか一方だけを使用すべきです。
 
 上記のコールバックルール例では、エラーメッセージはメソッドの名前を渡すことによって設定されます
-（「callback_」プレフィックスは不要です）::
+（「callback\_」プレフィックスは不要です）::
 
 	$this->form_validation->set_message('username_check')
 
