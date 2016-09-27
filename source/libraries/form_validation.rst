@@ -691,9 +691,6 @@ set_rules() メソッドを使用します::
 
 	$this->form_validation->set_data($data);
 
-Creating validation rules, running the validation, and retrieving error
-messages works the same whether you are validating ``$_POST`` data or
-another array of your choice.
 バリデーションルールを作成し、バリデーションを実行し、エラーメッセージを取得する一連の動作は
 ``$_POST`` データまたは設定した別の配列をバリデーションしているかどうかにかかわらず、
 同じように動作します。
