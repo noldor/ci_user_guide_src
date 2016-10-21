@@ -1,0 +1,6 @@
+Copyright (c) 2016, TAKEKOSHI Akishige
+
+この翻訳ドキュメントはいわゆるgithub no licenseです。
+原文はMIT Licenseですが、翻訳はそうでないことにご注意ください。
+異なるライセンスで入手されたい方はご連絡ください。
+
